@@ -71,5 +71,5 @@ This is a list of major #s3multiUploadProgess dependencies:
 	
 	3.7.2. python manage.py runserver
 	
-3.8. Open Browser gp to
+3.8. Open Browser go to
 	localhost:8000/form

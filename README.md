@@ -6,7 +6,7 @@ Free. Open Source. #s3multiUploadProgess is a tool for uploading multiple files 
 
 
 2. Requirements
-3. ===================================
+===================================
 
 This is a list of major #s3multiUploadProgess dependencies:
 

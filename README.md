@@ -1,10 +1,12 @@
 
 1. Introduction
+=====================================
 
 Free. Open Source. #s3multiUploadProgess is a tool for uploading multiple files on S3 with progress bar.
 
 
 2. Requirements
+3. ===================================
 
 This is a list of major #s3multiUploadProgess dependencies:
 
@@ -13,6 +15,7 @@ This is a list of major #s3multiUploadProgess dependencies:
 
 
 3. Installation Guide
+==========================================
 
 3.1: Clone Code
 	cd ~
